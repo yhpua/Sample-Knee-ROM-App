@@ -15,7 +15,7 @@ An [MIT App Inventor](https://appinventor.mit.edu/) sample app to enable self-me
 
 
 ## Theory
-The smartphone app converts accelerometer-derived shank angle to knee flexion angle using the trigonometric function described by [Ockendon & Gilbert[^1]](https://pubmed.ncbi.nlm.nih.gov/23150162/)
+The smartphone app converts accelerometer-derived shank angle ($\beta$) to knee flexion angle ($\kappa$) using the trigonometric function described by [Ockendon & Gilbert[^1]](https://pubmed.ncbi.nlm.nih.gov/23150162/)
 
 ```{r, echo = FALSE}
 knitr::include_graphics("trigo.png")

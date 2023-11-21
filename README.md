@@ -12,8 +12,9 @@ smartphone application by patients with Total Knee Arthroplasty.”
 
 ## Theory
 
-The smartphone app converts accelerometer-derived shank angle to knee
-flexion angle using the trigonometric function described by [Ockendon &
+The smartphone app converts accelerometer-derived shank angle ($\beta$)
+to knee flexion angle ($\kappa$) using the trigonometric function
+described by [Ockendon &
 Gilbert[^1]](https://pubmed.ncbi.nlm.nih.gov/23150162/)
 
 <img src="trigo.png" width="531" />

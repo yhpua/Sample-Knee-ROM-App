@@ -27,7 +27,7 @@ device.
 Option 2: Download `Sample_Knee_ROM_App.apk` and install file in your
 device.
 
-<img src="qr.png" width="267" />
+<img src="qr.png" width="281" />
 
 [^1]: Ockendon M, Gilbert RE. Validation of a novel smartphone
     accelerometer-based knee goniometer. J Knee Surg.
